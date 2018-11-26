@@ -1,8 +1,8 @@
 {
-  "name": "wombat-light-syntax",
+  "name": "sideways-syntax",
   "theme": "syntax",
   "version": "1.2.0",
-  "description": "Wombat Atom Light Syntax Theme. ( Python, GoLang, Angular, Javascript, NodeJS, Markdown, PHP, HTML, CSS )",
+  "description": "Sideways Atom Light Syntax Theme. ( Python, GoLang, Angular, Javascript, NodeJS, Markdown, PHP, HTML, CSS )",
   "keywords": [
     "python",
     "golang",
@@ -17,7 +17,7 @@
     "light",
     "syntax"
   ],
-  "repository": "https://github.com/promek/wombat-light-syntax",
+  "repository": "https://github.com/sidewayss/wombat-light-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
