@@ -1,7 +1,7 @@
 {
   "name": "sideways-syntax",
   "theme": "syntax",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Sideways Atom Light Syntax Theme. ( Python, GoLang, Angular, Javascript, NodeJS, Markdown, PHP, HTML, CSS )",
   "keywords": [
     "python",
